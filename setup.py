@@ -65,3 +65,4 @@ class picture:
         print(f"The average rgb value of {self.name} is {self.average}")
         
 
+
